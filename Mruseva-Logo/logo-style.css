@@ -20,7 +20,7 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    background: linear-gradient(135deg, #0D8BD9 0%, #41C0F2 50%, #BDE3F2 100%);
+    background: linear-gradient(135deg, #29AFF6, #B5F0FF);
     color: #ffffff;
     line-height: 1.6;
     overflow-x: hidden;
@@ -30,7 +30,7 @@ body {
 
 main {
     flex: 1;
-    margin-bottom: 1rem;
+
 }
 
 
@@ -138,7 +138,7 @@ nav .fa-square-xmark:hover {
   width: 100%;
   padding-top: 60vh; /* създава съотношение височина/ширина */
   background-image: url(images/LogoDW.svg);
-  background-size: clamp(55%, 45vw, 80%);
+  background-size: clamp(35%, 45vw, 80%);
   background-position: center;
   background-repeat: no-repeat;
 
