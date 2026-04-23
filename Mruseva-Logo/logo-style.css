@@ -20,7 +20,7 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
-    background: linear-gradient(135deg, #0D8BD9 0%, #41C0F2 50%, #BDE3F2 100%);
+    background: linear-gradient(135deg, #29AFF6, #B5F0FF);
     color: #ffffff;
     line-height: 1.6;
     overflow-x: hidden;
